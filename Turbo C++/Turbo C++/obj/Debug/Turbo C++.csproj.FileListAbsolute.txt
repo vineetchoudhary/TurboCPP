@@ -1,0 +1,16 @@
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\bin\Debug\Turbo C++.exe.config
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\bin\Debug\Turbo C++.exe
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\bin\Debug\Turbo C++.pdb
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\bin\Debug\Garlic.dll
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo C++_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo C++_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Dictionary.baml
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo C++.g.resources
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo_C__.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo C++.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo C++.exe
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo C++.pdb
+D:\Documents\Visual Studio 2015\Projects\Turbo C++\Turbo C++\obj\Debug\Turbo C++.csprojResolveAssemblyReference.cache
