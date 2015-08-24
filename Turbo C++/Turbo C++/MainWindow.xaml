@@ -101,9 +101,6 @@
                     <ColumnDefinition Width="78*"/>
                 </Grid.ColumnDefinitions>
 
-                <!--Advert-->
-                <WebBrowser x:Name="webBrowserAd" Grid.Column="2" HorizontalAlignment="Left" Height="45" Margin="391,187,0,0" VerticalAlignment="Top" Width="55" Source="https://turbocpp.codeplex.com" Visibility="Hidden"/>
-
                 <DockPanel HorizontalAlignment="Left" Height="399" LastChildFill="False" VerticalAlignment="Top" Width="301" Background="#FF28282B" Grid.ColumnSpan="2" Margin="0,0,0,-1"/>
                 <Button x:Name="turboc" Content="Turbo C++" HorizontalAlignment="Left" Margin="15,24,0,0" VerticalAlignment="Top" Width="150" ToolTip="https://turbocpp.codeplex.com/" Foreground="White" BorderThickness="0" FontSize="29.333" Click="turboc_Click" Grid.ColumnSpan="2" HorizontalContentAlignment="Left">
                     <Button.Style>
