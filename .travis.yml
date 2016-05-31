@@ -1,0 +1,4 @@
+language: csharp
+solution: Turbo C++/Turbo C++.sln
+install:
+  - nuget install Garlic -Version 1.0.0
