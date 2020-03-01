@@ -1,3 +1,4 @@
+![GitHub All Releases](https://img.shields.io/github/downloads/vineetchoudhary/TurboCPP/total?style=flat-square)
 ![](https://api.travis-ci.org/vineetchoudhary/TurboCPP.svg?branch=master)
 
 What is Turbo C++?
