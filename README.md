@@ -1,4 +1,4 @@
-![GitHub All Releases](https://img.shields.io/github/downloads/vineetchoudhary/TurboCPP/total?style=flat-square)
+[![GitHub All Releases](https://img.shields.io/github/downloads/vineetchoudhary/TurboCPP/total?style=flat-square)](https://developerinsider.co/turbocpp)
 
 ## What is Turbo C++?
 Turbo C++ for Latest Edition of Windows like Windows 8, Windows 8.1, Windows 10
