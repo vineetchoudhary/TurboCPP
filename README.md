@@ -1,14 +1,17 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/vineetchoudhary/TurboCPP/total?style=flat-square)](https://developerinsider.co/turbocpp)
 
 ## What is Turbo C++?
-Turbo C++ for Latest Edition of Windows like Windows 8, Windows 8.1, Windows 10
+Turbo C++ for Latest Edition of Windows like Windows 10 and Windows 11.
 
 ## Download full version from here
 https://developerinsider.co/turbocpp
 
 ## System Requirement
-- In windows 8, Windows 8.1 and Windows 10 no pre requirement.
-- In windows 7 .NET 4.5 Framework require to run "Turbo C++" because it's specially made for windows 8.
+| OS Version | Pre Requirement |
+|:-- |:--------------- |
+| Windows 7 | .NET 4.5 Framework |
+| Windows 8, Windows 8.1, Windows 10 and Windows 11 | No Pre Requirement |
+
     
 ## Issues
 - [Solution of Common Turbo C++ Issues](https://developerinsider.co/solution-of-common-turbo-c-issues/)
