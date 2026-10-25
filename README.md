@@ -1,24 +1,51 @@
-[![GitHub All Releases](https://img.shields.io/github/downloads/vineetchoudhary/TurboCPP/total?style=flat-square)](https://developerinsider.co/turbocpp)
+# Turbo C++ for Windows and macOS
 
-## What is Turbo C++?
-Turbo C++ for Latest Edition of Windows like Windows 10 and Windows 11.
+[![GitHub downloads](https://img.shields.io/github/downloads/vineetchoudhary/TurboCPP/total?style=flat-square)](https://github.com/vineetchoudhary/TurboCPP/releases)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](LICENSE)
 
-## Download full version from here
-https://developerinsider.co/turbocpp
+Run the classic Borland Turbo C/C++ IDE with native Windows and macOS launchers and bundled DOSBox Staging. Compile and run legacy C/C++ programs offline.
 
-## System Requirement
-| OS Version | Pre Requirement |
-|:-- |:--------------- |
-| Windows 7 | .NET 4.5 Framework |
-| Windows 8, Windows 8.1, Windows 10 and Windows 11 | No Pre Requirement |
+## Download
 
-    
-## Issues
-- [Solution of Common Turbo C++ Issues](https://developerinsider.co/solution-of-common-turbo-c-issues/)
-- [Create a New Issue](https://github.com/vineetchoudhary/TurboCPP/issues)
+[Official download page](https://developerinsider.co/turbocpp) · [GitHub Releases](https://github.com/vineetchoudhary/TurboCPP/releases)
 
-## Other Useful Links
-- [Turbo C++ IDE Shortcuts](https://developerinsider.co/turbo-c-shortcuts/)
-- [C Programming Language Tutorials](https://developerinsider.co/c-and-cpp-insider/)
-- [Download C/C++ (gcc) Compiler for Android](https://developerinsider.co/c-compiler-for-android-run-c-c-programs-on-android/)
-- [Compile C program with gcc compiler on Bash on Ubuntu on Windows 10](https://developerinsider.co/compile-c-program-with-gcc-compiler-on-bash-on-ubuntu-on-windows-10/)
+| Platform | Launcher Version | Package |
+| --- | --- | --- |
+| Windows 11 x64 | 4.0 | `TurboCPP-Windows-x64-Setup.exe` |
+| macOS 14+, Apple silicon | 4.0 | `TurboCPP-macOS-arm64.dmg` |
+| macOS 12+, Intel | 4.0 | `TurboCPP-macOS-x86_64.dmg` |
+| Windows 8 / 8.1 / 10 | 3.2 | [Legacy ZIP](https://github.com/vineetchoudhary/TurboCPP/releases/download/v3.2/Turbo.C.3.2.zip) |
+| Windows 7 | 3.2 | [Legacy ZIP](https://github.com/vineetchoudhary/TurboCPP/releases/download/v3.2/Turbo.C.3.2.Net4.5.zip), requires .NET Framework 4.5 |
+
+**Version 4.0 requires Windows 11 x64 or a supported Mac.** The Windows installer bundles .NET and DOSBox and Mac packages bundle DOSBox and need no .NET or Homebrew.
+
+## Features
+
+- Create and open C/C++ source files, headers, and projects.
+- Reopen recent work and run precompiled DOS executables.
+- Use fullscreen or windowed mode, lessons, and programming examples.
+- Open website examples through `turbocpp:` links and files through **Open With**.
+- Receive update prompts, local compilation stays available offline.
+
+## Screenshots
+
+### Windows 11
+
+![Turbo C++ 4.0 on Windows 11: source files, projects, recent work, and learning resources](screenshot/TurboCPP-Windows11.png)
+
+### macOS
+
+
+### Windows 10 or older
+
+
+
+## Help
+
+[Common issues](https://developerinsider.co/solution-of-common-turbo-c-issues/) · [IDE shortcuts](https://developerinsider.co/turbo-c-shortcuts/) · [C/C++ tutorials](https://developerinsider.co/c-and-cpp-insider/) · [Report a problem](https://github.com/vineetchoudhary/TurboCPP/issues)
+
+Include your app version, OS, processor, and steps to reproduce when reporting a problem.
+
+## License
+
+Original project material uses [Apache 2.0](LICENSE). Borland compiler/IDE and DOSBox components retain their own licenses. See [NOTICE](NOTICE).
